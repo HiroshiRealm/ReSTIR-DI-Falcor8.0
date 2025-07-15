@@ -1,5 +1,10 @@
 ![](docs/images/teaser.png)
 
+# ReSTIR 使用方法
+
+编译后打开Mogwai.exe，加载含有ReSTIR RenderPass的渲染管线 (Script/restir.py当中提供了一个，可以直接加载那个)，之后再加载一个场景即可使用.
+
+
 # Falcor
 
 Falcor is a real-time rendering framework supporting DirectX 12 and Vulkan. It aims to improve productivity of research and prototype projects.
